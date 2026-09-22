@@ -57,6 +57,9 @@ of 0.5131.
 
 Reproduction
 
+A Kaggle notebook with all four experiments and their scores is at:
+https://www.kaggle.com/code/tauman/agricultural-extension-rag-dzanga-starter-notebo?scriptVersionId=351802577
+
 git clone https://github.com/tmanyoni/C10-team-dzanga.git
 cd C10-dzanga
 python -m venv .venv
